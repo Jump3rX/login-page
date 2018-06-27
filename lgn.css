@@ -1,0 +1,23 @@
+#top{font-size: 60px;
+    font-family: fantasy;
+    color: ghostwhite;
+    text-align: left;}
+#butn{text-align: right;color: ghostwhite;}
+form{text-align: center;}
+body{width: 95%;
+          height: 95%
+          margin: 0;
+          padding: 0;
+          border-width: thin;
+          overflow: hidden;
+          display: block;
+          box-sizing: border-box;
+         background-image: url(internet-ethernet-cable-hi-tech-1920x1080-14205.jpg);}
+input[type=text]{border-radius: 5px;height: auto;}
+input[type=password]{border-radius: 5px;height: auto;}
+input[type=submit]{border-radius: 5px;height: auto; color: ghostwhite;}
+input[type=date]{border-radius: 5px;height: auto;}
+#head{margin: 10px 50px 10px 80px;}
+h3{color: ghostwhite; font-family: cursive;}
+#db{color: ghostwhite;font-family: cursive;}
+#chk{color: ghostwhite;font-family: cursive;}
